@@ -18,9 +18,9 @@
  Website ini dibuat dengan pola MVC (Model, View, Controller). Model sebagai jembatan komunikasi ke database, View sebagai penampil data yang diambil dari API, Controller sebagai pengendali proses bisnis.
 
 **TEKNOLOGI**
-Backend: Express JS
-Frontend: NextJS (TSX dengan TS)
-CDN: EdgeStore
-Database Management Systems: MYSQL
-Email: -
-Resend Payment: Midtrans
+1. Backend: Express JS
+2. Frontend: NextJS (TSX dengan TS)
+3. CDN: EdgeStore
+4. Database Management Systems: MYSQL
+5. Email: -
+6. Resend Payment: Midtrans
